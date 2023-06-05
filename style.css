@@ -1,0 +1,57 @@
+.main{
+    width: 400px;
+    border: none;
+    box-shadow: 8px 8px 15px rgb(68, 67, 67);
+    border-radius:10px;
+    height: 200px;
+    text-align: center;
+    margin: 17% auto;
+}
+#startBtn{
+margin: 5px;
+padding: 5px 15px ;
+background-color: none;
+color: green;
+border: 1px solid green;
+border-radius: 5px;
+}
+
+#startBtn:hover{
+    background-color: green;
+    color: white;
+}
+#resetBtn{
+    margin: 5px;
+padding: 5px 15px ;
+background-color: none;
+color: lightskyblue;
+border: 1px solid lightskyblue;
+border-radius: 5px;
+}
+
+
+#resetBtn:hover{
+    background-color: lightskyblue;
+    color: white;
+}
+
+#stopBtn{
+    margin: 5px;
+    padding: 5px 15px ;
+    background-color: none;
+    color: red;
+    border: 1px solid red;
+    border-radius: 5px;
+}
+#stopBtn:hover{
+    background-color: red;
+    color: white;
+}
+span{
+    margin: 2px 23px;
+}
+
+
+
+
+
